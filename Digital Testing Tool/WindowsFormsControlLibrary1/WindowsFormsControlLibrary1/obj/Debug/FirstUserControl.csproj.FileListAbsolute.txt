@@ -1,0 +1,49 @@
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\DxpSimpleAPI.dll
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\FirstUserControl.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Administrator\Desktop\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+G:\日立化成山崎(勝田)\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+G:\日立化成山崎(勝田)\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+G:\日立化成山崎(勝田)\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\DxpSimpleAPI.dll
+G:\日立化成山崎(勝田)\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\FirstUserControl.csprojResolveAssemblyReference.cache
+G:\日立化成山崎(勝田)\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+G:\日立化成山崎(勝田)\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\FirstUserControl.csproj.GenerateResource.Cache
+G:\日立化成山崎(勝田)\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+G:\日立化成山崎(勝田)\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\pc\Desktop\Currently Creating\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\pc\Desktop\Currently Creating\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\pc\Desktop\Currently Creating\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\DxpSimpleAPI.dll
+C:\Users\pc\Desktop\Currently Creating\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\FirstUserControl.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Currently Creating\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\pc\Desktop\Currently Creating\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\FirstUserControl.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Currently Creating\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\pc\Desktop\Currently Creating\PC-DCS Tool No1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\pc\Desktop\Currently Creating\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\pc\Desktop\Currently Creating\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\pc\Desktop\Currently Creating\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\DxpSimpleAPI.dll
+C:\Users\pc\Desktop\Currently Creating\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\FirstUserControl.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Currently Creating\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\pc\Desktop\Currently Creating\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\FirstUserControl.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Currently Creating\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\pc\Desktop\Currently Creating\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+\\192.168.254.220\g\MemberFolders\JB\Programs\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+\\192.168.254.220\g\MemberFolders\JB\Programs\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+\\192.168.254.220\g\MemberFolders\JB\Programs\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\DxpSimpleAPI.dll
+\\192.168.254.220\g\MemberFolders\JB\Programs\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\FirstUserControl.csprojResolveAssemblyReference.cache
+\\192.168.254.220\g\MemberFolders\JB\Programs\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+\\192.168.254.220\g\MemberFolders\JB\Programs\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\FirstUserControl.csproj.GenerateResource.Cache
+\\192.168.254.220\g\MemberFolders\JB\Programs\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+\\192.168.254.220\g\MemberFolders\JB\Programs\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\FirstUserControl.csprojResolveAssemblyReference.cache
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\FirstUserControl.csproj.GenerateResource.Cache
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\DxpSimpleAPI.dll
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\TracerX-Logger.dll
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\TracerX-Logger.pdb
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Digital Testing Tool\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
